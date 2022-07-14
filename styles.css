@@ -1,0 +1,73 @@
+
+#name {
+    font-family: monspace;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: green;
+    opacity: 0.7;
+}
+#name:hover {
+    color: black
+}
+
+#name1 {
+    font-family: monspace;
+    font-size: 34px;
+    text-emphasis: underline;
+    color: olive;
+    opacity: 0.7;
+}
+
+#name3 {
+    font-family: cursive;
+    font-size: 25px;
+    text-emphasis: underline;
+    color: olive;
+    opacity: 0.9;
+}
+
+.text {
+    font-family: cursive;
+    font-size: 25px;
+    text-emphasis: underline;
+    opacity: 1;
+}
+
+.about {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.nav-item {
+    font-family: cursive;
+    color: olive
+}
+
+li.about:hover {
+    color: olive
+}
+
+a:link {
+    color: red;
+  }
+
+  a:visited {
+    color: black;
+  }
+
+  a:hover {
+    color: olive;
+  }
+
+  a:active {
+    color: blue;
+  }
+
+  body {
+    background-image: url("orest.jpg");
+    background-repeat: repeat-y;
+    width: 900px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: auto;
+  }
