@@ -78,3 +78,23 @@ body {
     width: 600px
   }
 
+@media screen and (max-width: 1200px) {
+    .image {
+      width: 500px;
+    }
+  }
+@media screen and (max-width: 992px) {
+    .image {
+      width: 400px;
+    }
+  }
+@media screen and (max-width: 838px) {
+    .image {
+      width: 300px;
+    }
+  }
+@media screen and (max-width: 680px) {
+    .image {
+      width: 200px;
+    }
+  }
