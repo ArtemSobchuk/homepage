@@ -43,13 +43,14 @@
     color: olive
 }
 
+.navbar-brand
+{
+    font-family: cursive;
+}
+
 li.about:hover {
     color: olive
 }
-
-a:link {
-    color: red;
-  }
 
   a:visited {
     color: black;
@@ -59,9 +60,6 @@ a:link {
     color: olive;
   }
 
-  a:active {
-    color: blue;
-  }
 
 body {
     background-image: url("orest1.jpg");
